@@ -5,5 +5,6 @@
     <File Path="Directory.Packages.props" />
   </Folder>
   <Project Path="JK.JsonLines.HttpExtensions/JK.JsonLines.HttpExtensions.csproj" Id="f1eba3eb-f1c4-41c4-9a76-453fc44b18cb" />
+  <Project Path="JK.JsonLines.Tests.Unit/JK.JsonLines.Tests.Unit.csproj" Id="d7f54a79-58b0-4fb9-bf1c-492d4547c6b9" />
   <Project Path="JK.JsonLines/JK.JsonLines.csproj" Id="3475df34-a65f-4bae-b28c-5570f1d0672f" />
 </Solution>
