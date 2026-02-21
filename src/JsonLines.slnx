@@ -4,4 +4,6 @@
     <File Path="Directory.Build.props" />
     <File Path="Directory.Packages.props" />
   </Folder>
+  <Project Path="JK.JsonLines.HttpExtensions/JK.JsonLines.HttpExtensions.csproj" Id="f1eba3eb-f1c4-41c4-9a76-453fc44b18cb" />
+  <Project Path="JK.JsonLines/JK.JsonLines.csproj" Id="3475df34-a65f-4bae-b28c-5570f1d0672f" />
 </Solution>
