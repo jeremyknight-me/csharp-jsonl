@@ -15,6 +15,7 @@ JK.JsonLines is a small .NET library for reading and writing JSON Lines (JSONL) 
 - Add support for targeting .NET 8 and .NET 9 (multi-targeting / compatibility builds).
 - `HttpClient` extensions to read/write JSONL payloads over HTTP easily.
 - File I/O extensions for streaming read/write helpers (file-backed JSONL operations).
+ - Ensure compatibility with System.Text.Json source generation (`JsonSerializerContext`) so the library works with source-generated serializers.
 
 These items are planned and not yet implemented; contributions are welcome.
 
