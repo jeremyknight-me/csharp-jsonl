@@ -32,4 +32,8 @@
     <PackageReference Include="xunit.runner.visualstudio" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JK.JsonLines\JK.JsonLines.csproj" />
+  </ItemGroup>
+
 </Project>
